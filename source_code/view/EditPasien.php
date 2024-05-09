@@ -69,6 +69,7 @@ class EditPasien implements KontrakData1
 				
 				<button type="submit" name="update">Edit Data</button>
 				<button type="cancel">Kembali</button>
+
 			</form>
 		</div>';
 
